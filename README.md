@@ -24,3 +24,12 @@ Write a Java program to perform basic string operations like:
 5. Print all results.
 
 ## ▶️ Sample Output
+Enter a string: Level
+
+===== Results =====
+Original String: Level
+Reversed String: level
+Vowels: 2
+Consonants: 3
+Palindrome: Yes
+
